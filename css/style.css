@@ -1,0 +1,70 @@
+body {
+  background-color: #ff6c5f;
+  background-color: #5482ab;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+  font-family: 'Lobster', sans-serif;
+  font-size: 45px;
+  margin-top: 30px;
+  margin-bottom: 50px;
+  text-shadow: 2px 2px 4px #000000;
+}
+
+#calc {
+  margin: auto;
+  height: 400px;
+  width: 300px;
+  background: linear-gradient(#caccd1, #52565e);
+  margin-bottom: 50px;
+  border-radius: 15px;
+  box-shadow: 2px 2px 4px #000000;
+  padding-top: 25px;
+}
+
+#screen {
+  background-color: #eff3f6;
+  background-color: #f9e498;
+  border-radius: 5px;
+  margin-left: 15px;
+  margin-right: 15px;
+  height: 60px;
+  width: 270px;
+  font-family: 'Exo 2', sans-serif;
+  font-size: 42px;
+  text-align: right;
+}
+
+#buttonsdiv {
+  margin-top: 15px;
+  text-align: center;
+  font-family: 'Exo 2', sans-serif;
+}
+
+button {
+  font-size: 35px;
+  width: 65px;
+  margin-bottom: 5px;
+  border-radius: 5px;
+  outline: none;
+  background-color: #444444;
+  color: white;
+}
+
+.log, .result, .dot {
+  background-color: #c8102e;
+}
+
+#clear {
+  margin-left: 15px;
+  margin-right: 15px;
+  width: 270px;
+  font-size: 25px;
+  background-color: #4dc47d;
+}
+
+#signature, a {
+  color: white;
+}
